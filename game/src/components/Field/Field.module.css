@@ -1,0 +1,21 @@
+.container {
+  height: 100%;
+}
+
+.field {
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+}
+
+h1 {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  font-size: 7rem;
+  font-family: monospace;
+  color: black;
+}
