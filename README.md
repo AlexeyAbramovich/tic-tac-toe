@@ -8,5 +8,7 @@
 -  React
 
 # Preview
-![image](https://github.com/AlexeyAbramovich/tic-tac-toe/assets/74393859/d20f3215-efe8-447e-b68d-6e0f7a9111bc)
-![image](https://github.com/AlexeyAbramovich/tic-tac-toe/assets/74393859/52e7e2ff-e1be-4baf-9bda-4eceeff88137)
+![image](https://github.com/user-attachments/assets/6a3c5c1e-c2db-4584-b752-33b617879ca8)
+
+![image](https://github.com/user-attachments/assets/f9108701-8283-41c5-9606-ef354a5ecc6a)
+
