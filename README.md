@@ -7,6 +7,8 @@
 -  React
 -  JavaScript
 -  Vite
+-  HTML
+-  CSS
 
 # Preview
 ![image](https://github.com/user-attachments/assets/6a3c5c1e-c2db-4584-b752-33b617879ca8)
